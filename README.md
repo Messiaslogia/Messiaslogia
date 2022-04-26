@@ -1,5 +1,5 @@
 <h1 align="center">Olá me chamo Messias Galvan</h1>
-<h3 align="center">Desenvolvedor Front End Jr || Atualmente mais JavaScript e PHP</h3>
+<h3 align="center">Desenvolvedor Front End Jr || Atualmente estudando JavaScript e PHP</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=messiaslogia&label=Profile%20views&color=0e75b6&style=flat" alt="messiaslogia" /> </p>
 
