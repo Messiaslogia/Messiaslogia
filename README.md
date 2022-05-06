@@ -23,6 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=messiaslogia&show_icons=true&locale=en&layout=compact" alt="messiaslogia" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=messiaslogia&show_icons=true&locale=en" alt="messiaslogia" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=messiaslogia&" alt="messiaslogia" /></p>
