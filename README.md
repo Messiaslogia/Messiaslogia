@@ -9,7 +9,7 @@
 
 - 📄 Conheça minhas experiências profissionais: [https://www.linkedin.com/in/messias-galvan-pereira-b087261a6/](https://www.linkedin.com/in/messias-galvan-pereira-b087261a6/)
 
-- ⚡ Fatos **Sou ótimo em me comunicar e me adapto rápido em novos ambientes. Adoro desafios e superar meus limites.**
+- ⚡ **Sou ótimo em me comunicar e me adapto rápido em novos ambientes. Adoro desafios e superar meus limites.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
