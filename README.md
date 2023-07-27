@@ -1,16 +1,24 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-<!--
-**Messiaslogia/Messiaslogia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+  Me chamo Messias, sou desenvolvedor fullstack web. Atualmente trabalho na empresa Show de Imagem e Audiovisual utilizando as linguagens JS e PHP.
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  🦄 Linguagens: JS, PHP, SQL
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  💼 Ferramentas: Node, React, Bootstrap, MySQL, WordPress
+</p>
+
+<p align="left">
+  💌 Vamos trocar umas ideias: ⤵️
+</p>
+
+<p align="left">
+
+  <a href="#" alt="LinkedIn">
+  <img src="[https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/messias-galvan-pereira-b087261a6/)https://www.linkedin.com/in/messias-galvan-pereira-b087261a6/" /></a>
+
+</p>
