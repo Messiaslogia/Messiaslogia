@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Me chamo Messias, sou desenvolvedor fullstack web. Atualmente trabalho na empresa Show de Imagem e Audiovisual utilizando as linguagens JS e PHP.
+  Me chamo Messias, sou desenvolvedor fullstack web a 4 anos com as linguagens JS e PHP.
 </p>
 
 <p align="left">
